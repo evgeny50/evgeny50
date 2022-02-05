@@ -6,7 +6,7 @@
 ### <div align="center">I'm Evgeny👨‍💻 , and I want to become a full stack developer🚀</div>  
   
 
-- 🔭 I’m currently working on [Job site](https://github.com/evgeny50/Hekto)  
+- 🔭 I’m currently working on [Online shop](https://github.com/evgeny50/Hekto)  
   
 
 - 🌱 I’m currently learning Java Script  
